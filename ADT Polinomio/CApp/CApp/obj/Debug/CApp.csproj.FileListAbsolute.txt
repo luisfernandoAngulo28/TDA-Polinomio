@@ -1,0 +1,7 @@
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\bin\Debug\CApp.exe.config
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\bin\Debug\CApp.exe
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\bin\Debug\CApp.pdb
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\obj\Debug\CApp.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\obj\Debug\CApp.exe
+C:\Users\ferna\source\repos\ADT Polinomio\CApp\CApp\obj\Debug\CApp.pdb
